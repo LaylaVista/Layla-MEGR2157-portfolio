@@ -10,7 +10,7 @@ Task A - Analyzing portfolios
 
 https://natekarau61.github.io/Engineering-Portfolio/#home 
 
-The first engineering portfolio I chose is by Nathaniel Karau. The portfolio provides a side bar that takes the user to different pages, making it easy to navigate. I can navigate through the portfolio in under a minute. The design is very simple; the color is monotonous grey throughout the portfolio, allowing the user to only focus on the information. Under each project, he provides information on the objectives, software, and his role in each project. He also provides all 3D models and pictures of each project, therefore making it easy for a colleague to reproduce. However, there is not much information on how he made design decisions. He only provides the objectives and the final product. His language throughout the portfolio is professional. 
+The first engineering portfolio I chose is by Nathaniel Karau. The portfolio provides a sidebar that takes the user to different pages, making it easy to navigate. I can navigate through the portfolio in under a minute. The design is very simple; the color is monotonous grey throughout the portfolio, allowing the user to only focus on the information. Under each project, he provides information on the objectives, software, and his role in each project. He also provides all 3D models and pictures of each project, therefore making it easy for a colleague to reproduce. However, there is not much information on how he made design decisions. He only provides the objectives and the final product. His language throughout the portfolio is professional. 
 
 https://sites.google.com/view/sethschafferportfolio/home 
 
@@ -18,6 +18,18 @@ The second engineering portfolio I chose is by Seth Schaffer. Compared to the fi
 
 Task B - Product Analysis
 
+https://patents.google.com/patent/USD982235S1/en?q=(hair+clip)&oq=hair+clip
+
+The hair clip consists of three primary parts: two jaws and a torsion spring. The torsion spring forces the two jaws to clamp down onto objects. The main purpose of the product is to convert spring energy into a clamping force to hold hair in place.
+<img width="337" height="270" alt="Screenshot 2026-08-24 174614" src="https://github.com/user-attachments/assets/61bbbace-5132-41c0-aa0f-d9a5d53724f5" />
+
+The torsion spring produces a torque governed by the equation τ = kθθ, where τ is the torque produced by the spring, kθ is the torsional spring constant, and θ is the angle from the unloaded position. The torque is then converted into a clamping force.
+
+<img width="387" height="207" alt="Screenshot 2026-08-24 174643" src="https://github.com/user-attachments/assets/4ffd9991-38e4-4f86-a0cf-ce1e02b0e3a7" />
+The geometry of the upper and lower jaw contains “teeth”, which allows the jaws to latch onto hair easier. The length between the teeth and the hinge determines the clamping force. 
+
+<img width="397" height="181" alt="Screenshot 2026-08-24 174703" src="https://github.com/user-attachments/assets/74331743-2dc8-42f2-a922-e9aa923f6fac" />
+The spring geometry, including its coil diameter, wire diameter, and number of turns, determines its stiffness and the clamping force of the clip.
 
 ## Decide
 
