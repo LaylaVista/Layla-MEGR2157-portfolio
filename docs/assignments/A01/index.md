@@ -37,6 +37,8 @@ D. The patent number for the design is USD982235S1, by Yating Chen. Two alternat
 
 ## Decide
 
+1) Homepage Identity – The homepage is what the viewer sees first when opening a portfolio, therefore, it should catch the user’s attention. The homepage should immediately inform the viewer of who the portfolio is about, what field they are in, and how the information is organized. The homepage sets the tone for what the viewer should expect for the rest of the portfolio. 
 
-## Communicate
+2) One Intentional Customization – I will add the titles of each project instead of leaving the assignment tabs as A1, A2, A3, etc. This will ensure that the user can understand what each tab is about without having to click on it, making it easier to navigate.  
 
+3) Your Documentation Standard – For my portfolio, I will intentionally use clear and professional language to adequately back up all engineering decisions I make in my projects. 
