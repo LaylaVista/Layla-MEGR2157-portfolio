@@ -21,15 +21,15 @@ Task B - Product Analysis
 https://patents.google.com/patent/USD982235S1/en?q=(hair+clip)&oq=hair+clip
 
 A. The hair clip consists of three primary parts: two jaws and a torsion spring. The torsion spring forces the two jaws to clamp down onto objects. The main purpose of the product is to convert spring energy into a clamping force to hold hair in place.
-<img width="337" height="270" alt="Screenshot 2026-08-24 174614" src="https://github.com/user-attachments/assets/61bbbace-5132-41c0-aa0f-d9a5d53724f5" />
+<img width="660" height="552" alt="Screenshot 2026-08-24 185150" src="https://github.com/user-attachments/assets/a190d13b-1355-41d0-acb4-70035272ee31" />
 
 B. The torsion spring produces a torque governed by the equation τ = kθ, where τ is the torque produced by the spring, k is the torsional spring constant, and θ is the angle from the unloaded position. This equation assumes that only the metal spring is deforming and not the plastic pieces. The torque is then converted into a clamping force.
 
-<img width="387" height="207" alt="Screenshot 2026-08-24 174643" src="https://github.com/user-attachments/assets/4ffd9991-38e4-4f86-a0cf-ce1e02b0e3a7" />
+<img width="790" height="317" alt="Screenshot 2026-08-24 185219" src="https://github.com/user-attachments/assets/4175cb8c-9e79-49a8-a89c-384ad7e4cb1d" />
 
 C. The geometry of the upper and lower jaw contains “teeth”, which allows the jaws to latch onto hair more easily. The length between the teeth and the hinge determines the clamping force. 
 
-<img width="397" height="181" alt="Screenshot 2026-08-24 174703" src="https://github.com/user-attachments/assets/74331743-2dc8-42f2-a922-e9aa923f6fac" />
+<img width="786" height="337" alt="Screenshot 2026-08-24 185238" src="https://github.com/user-attachments/assets/1549ec3a-05f2-4c88-bd7d-7e1545bdda97" />
 
 The spring geometry, including its coil diameter, wire diameter, and number of turns, determines its stiffness and the clamping force of the clip.
 
