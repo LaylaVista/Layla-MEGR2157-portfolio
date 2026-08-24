@@ -23,7 +23,7 @@ https://patents.google.com/patent/USD982235S1/en?q=(hair+clip)&oq=hair+clip
 A. The hair clip consists of three primary parts: two jaws and a torsion spring. The torsion spring forces the two jaws to clamp down onto objects. The main purpose of the product is to convert spring energy into a clamping force to hold hair in place.
 <img width="660" height="552" alt="Screenshot 2026-08-24 185150" src="https://github.com/user-attachments/assets/a190d13b-1355-41d0-acb4-70035272ee31" />
 
-B. The torsion spring produces a torque governed by the equation τ = kθ, where τ is the torque produced by the spring, k is the torsional spring constant, and θ is the angle from the unloaded position. This equation assumes that only the metal spring is deforming and not the plastic pieces. The torque is then converted into a clamping force using the equation F = τ/Length.
+B. The torsion spring produces a torque governed by the equation τ = kθ, where τ is the torque produced by the spring, k is the torsional spring constant, and θ is the angle from the unloaded position. This equation assumes that only the metal spring is deforming and not the plastic pieces. The torque is then converted into a clamping force using the equation F = τ/r, where r is the radius from the spring to the point where the clamping force is created.
 
 <img width="790" height="317" alt="Screenshot 2026-08-24 185219" src="https://github.com/user-attachments/assets/4175cb8c-9e79-49a8-a89c-384ad7e4cb1d" />
 
