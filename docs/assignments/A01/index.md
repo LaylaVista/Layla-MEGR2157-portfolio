@@ -26,9 +26,11 @@ The hair clip consists of three primary parts: two jaws and a torsion spring. Th
 The torsion spring produces a torque governed by the equation τ = kθθ, where τ is the torque produced by the spring, kθ is the torsional spring constant, and θ is the angle from the unloaded position. The torque is then converted into a clamping force.
 
 <img width="387" height="207" alt="Screenshot 2026-08-24 174643" src="https://github.com/user-attachments/assets/4ffd9991-38e4-4f86-a0cf-ce1e02b0e3a7" />
+
 The geometry of the upper and lower jaw contains “teeth”, which allows the jaws to latch onto hair easier. The length between the teeth and the hinge determines the clamping force. 
 
 <img width="397" height="181" alt="Screenshot 2026-08-24 174703" src="https://github.com/user-attachments/assets/74331743-2dc8-42f2-a922-e9aa923f6fac" />
+
 The spring geometry, including its coil diameter, wire diameter, and number of turns, determines its stiffness and the clamping force of the clip.
 
 ## Decide
