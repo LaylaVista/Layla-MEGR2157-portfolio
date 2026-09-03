@@ -70,7 +70,7 @@ The mass for each individual pin on SolidWorks was 11.19grams or 0.01119kg. Mult
 
 ## Likelihood of Failure Modes in Truss Components
 
-To figure out the likelihood of different failure modes in the components of a truss, I asked Gemini AI. I gave Gemini the following prompt:
+To figure out the likelihood of different failure modes in the components of a truss, I asked Gemini AI. Normally, I would not resort to AI for this kind of question, however, I have no prior knowledge on how to calculate the likelihood of failure for a truss. I gave Gemini the following prompt:
 
 <img width="749" height="295" alt="Screenshot 2026-09-03 070300" src="https://github.com/user-attachments/assets/1e49c996-9098-49af-86f1-4e875a958e6d" />
 
