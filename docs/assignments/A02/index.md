@@ -83,4 +83,3 @@ Part 2 - Pin Members:
 
 <img width="740" height="487" alt="Screenshot 2026-09-03 070037" src="https://github.com/user-attachments/assets/e6d17f0c-0fce-4d9e-92c8-a309338ab48f" />
 
-SolidWorks Links:
