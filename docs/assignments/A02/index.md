@@ -20,10 +20,15 @@ The image below shows the geometric constraints of the truss. The values are giv
 
 ## 2) Design the overall truss geometry
 
+(a)
 Firstly, I sketched out a general idea for my truss. I decided to keep the design simple, only adding two additional members. I chose to keep the truss symmetrical to make the calculations easier later on. For P, I decided to use 20kN since it's a nice, even number. Then, I solved for my reaction forces at joints A and B, and finally, solved for the force in each member of the truss.
 
 <img width="1192" height="1705" alt="IMG_E5480" src="https://github.com/user-attachments/assets/2ea33020-20df-40a7-8adb-1b77e23477d4" />
 <img width="1091" height="528" alt="IMG_E5479" src="https://github.com/user-attachments/assets/cc1c65e0-06b4-4f98-95c1-f67f643d778e" />
+
+(b)
+After solving for all internal forces, I need to determine the cross-sectional area of the truss. In the assignment requirements, the safety factor is given as 3.5. The largest force was 16.02kN.
+
 
 ## 3) Determine the cross-sectional area of the connecting pins
 
