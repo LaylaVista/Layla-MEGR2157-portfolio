@@ -38,7 +38,7 @@ After solving for all internal forces, I need to determine the cross-sectional a
 
 ## 3) Determine the cross-sectional area of the connecting pins
 
-The assignment requires that the pins are to be made of hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in^3. I found the cross-sectional area using the same equation I used for the truss. I determined that the diameter had to be 8.34mm and the length of the pin had to be twice the thickness of the truss, since the pin has to be able to connect two members of the truss. After finding the dimensions of the pin, I solved for the weight using the equation m = density*volume*5, since there are five pins total.
+The assignment requires that the pins are to be made of hardened tool steel with a yield shear strength of 170 ksi and a density of 0.278 lb/in^3. I found the cross-sectional area using the same equation I used for the truss. I determined that the diameter had to be 8.34mm and the length of the pin had to be twice the thickness of the truss, since the pin has to be able to connect two members of the truss. After finding the dimensions of the pin, I solved for the weight using the equation m = density(volume) x 5, since there are five pins total.
 
 <img width="834" height="646" alt="Screenshot 2026-09-03 061406" src="https://github.com/user-attachments/assets/5f78f2ee-b2f1-4c1f-932c-b280f43f9296" />
 
@@ -54,12 +54,22 @@ Mass properties for truss:
 
 <img width="266" height="132" alt="Screenshot 2026-09-03 055650" src="https://github.com/user-attachments/assets/e1f3ee25-4b46-4fd3-9a9b-14bad23845b7" />
 
-The mass of the truss using mass properties turned out to be 
+The mass of the truss using mass properties turned out to be 4507.47grams or 4.507kg. My calculated mass was 4.610kg, meaning my calculated mass was 2.28% off using the percent error equation.
 
 Mass properties for pins:
 
 <img width="263" height="167" alt="Screenshot 2026-09-03 060352" src="https://github.com/user-attachments/assets/ada4ef9f-b96e-4fb7-bf1b-ad7618f921d0" />
 
+The mass for each individual pin on SolidWorks was 11.19grams or 0.01119kg. Multiply that number by 5, and the total weight of all five pins would be 0.05595kg. My calculated mass for all five pins was 0.175kg, meaning my calculated value was about 213% off. 
+
 ## 5) Engineering lessons learned
 
+1) I learned how to design a truss on SolidWorks with the correct cross-sectional area after only being given the material type and the load. I also learned how to correctly accomodate for safety factor.
+2) I severely underestimated how much time this project would take. I ended up having to restart the entire project because I designed my initial truss incorrectly. I also had a lot of setbacks when it came to solving for the internal forces. I underestimated how much I have forgotten from when I took my Statics class. I think if I had given myself more time, I would have been able to figure out why my calculated pin mass turned out to be so different from the pin mass from SolidWorks mass properties. The next time I do a project like this, I make sure to give myself ample time to complete it.
+3) I learned top pay more attention to directions. One of the mistakes I made during this project was that I didn't realize one of the P forces was facing upwards. This caused to me to restart on my truss calculations multiple times.
+
 ## Likelihood of Failure Modes in Truss Components
+
+The members of the truss that are most likely to fail are members CE and ED, since they have the highest internal load.
+
+SolidWorks Links:
