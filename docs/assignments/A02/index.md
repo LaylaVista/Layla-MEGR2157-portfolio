@@ -18,6 +18,14 @@ The image below shows the geometric constraints of the truss. The values are giv
 
 <img width="355" height="239" alt="Screenshot 2026-08-31 144942" src="https://github.com/user-attachments/assets/feda0bd7-f606-4488-bdf7-054ed5e06a08" />
 
+Firstly, I sketched out a general idea for my truss. I decided to keep the design simple, only adding two additional members. I chose to keep the truss symmetrical to make the calculations easier later on. For P, I decided to use 20kN since it's a nice, even number. Then, I solved for my reaction forces at joints A and B, and finally, solved for the force in each member of the truss.
+
+<img width="1192" height="1705" alt="IMG_E5480" src="https://github.com/user-attachments/assets/2ea33020-20df-40a7-8adb-1b77e23477d4" />
+<img width="1091" height="528" alt="IMG_E5479" src="https://github.com/user-attachments/assets/cc1c65e0-06b4-4f98-95c1-f67f643d778e" />
+
+
+
+
 ## 2) Design the overall truss geometry
 
 
