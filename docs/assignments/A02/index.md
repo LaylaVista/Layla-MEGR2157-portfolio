@@ -36,6 +36,16 @@ Pins are to be made of hardened tool steel with a yield shear strength of 170 ks
 
 ## 4) Utilize CAD software to generate a 3D model of the truss
 
+<img width="1166" height="731" alt="Screenshot 2026-09-03 055306" src="https://github.com/user-attachments/assets/2643fe76-b846-490b-ad58-09f948f38ed7" />
+<img width="1028" height="700" alt="Screenshot 2026-09-03 055822" src="https://github.com/user-attachments/assets/a8d94bee-e73d-4207-a663-b7a48ed5708e" />
+
+Mass properties for truss:
+<img width="266" height="132" alt="Screenshot 2026-09-03 055650" src="https://github.com/user-attachments/assets/e1f3ee25-4b46-4fd3-9a9b-14bad23845b7" />
+
+Mass properties for pins:
+<img width="263" height="167" alt="Screenshot 2026-09-03 060352" src="https://github.com/user-attachments/assets/ada4ef9f-b96e-4fb7-bf1b-ad7618f921d0" />
+
+
 ## 5) Engineering lessons learned
 
 ## Likelihood of Failure Modes in Truss Components
