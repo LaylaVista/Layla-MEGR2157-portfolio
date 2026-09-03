@@ -76,9 +76,11 @@ To figure out the likelihood of different failure modes in the components of a t
 
 
 Part 1 - Truss Members:
+
 <img width="764" height="689" alt="Screenshot 2026-09-03 070030" src="https://github.com/user-attachments/assets/21b58f56-afc0-47c3-bc3f-c9536019a308" />
 
 Part 2 - Pin Members:
+
 <img width="740" height="487" alt="Screenshot 2026-09-03 070037" src="https://github.com/user-attachments/assets/e6d17f0c-0fce-4d9e-92c8-a309338ab48f" />
 
 SolidWorks Links:
