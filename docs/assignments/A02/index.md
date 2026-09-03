@@ -66,9 +66,9 @@ The mass for each individual pin on SolidWorks was 11.19grams or 0.01119kg. Mult
 
 1) I learned how to design a truss on SolidWorks with the correct cross-sectional area after only being given the material type and the load. I also learned how to correctly accomodate for safety factor.
 
-2) I severely underestimated how much time this project would take. I ended up having to restart the entire project because I designed my initial truss incorrectly. I also had a lot of setbacks when it came to solving for the internal forces. I underestimated how much I have forgotten from when I took my Statics class. I think if I had given myself more time, I would have been able to figure out why my calculated pin mass turned out to be so different from the pin mass from SolidWorks mass properties. The next time I do a project like this, I make sure to give myself ample time to complete it.
+2) I severely underestimated how much time this project would take. I ended up having to restart the entire project because I designed my initial truss incorrectly. I also had a lot of setbacks when it came to solving for the internal forces. I underestimated how much I have forgotten from when I took my Statics class. If I had given myself more time, I would have been able to figure out why my calculated pin mass turned out to be so different from the pin mass from SolidWorks mass properties. The next time I do a project like this, I make sure to give myself ample time to complete it.
 
-3) I learned to pay more attention to directions. One of the mistakes I made during this project was that I didn't realize one of the P forces was facing upwards. This caused to me to restart on my truss calculations multiple times.
+3) I learned to pay more attention to directions. One of the mistakes I made during this project was that I didn't realize one of the P forces was facing upwards. This caused me to restart on my truss calculations multiple times.
 
 ## Likelihood of Failure Modes in Truss Components
 
