@@ -70,6 +70,15 @@ The mass for each individual pin on SolidWorks was 11.19grams or 0.01119kg. Mult
 
 ## Likelihood of Failure Modes in Truss Components
 
-The members of the truss that are most likely to fail are members CE and ED, since they have the highest internal load.
+To figure out the likelihood of different failure modes in the components of a truss, I asked Gemini AI. I gave Gemini the following prompt:
+
+<img width="749" height="295" alt="Screenshot 2026-09-03 070300" src="https://github.com/user-attachments/assets/1e49c996-9098-49af-86f1-4e875a958e6d" />
+
+
+Part 1 - Truss Members:
+<img width="764" height="689" alt="Screenshot 2026-09-03 070030" src="https://github.com/user-attachments/assets/21b58f56-afc0-47c3-bc3f-c9536019a308" />
+
+Part 2 - Pin Members:
+<img width="740" height="487" alt="Screenshot 2026-09-03 070037" src="https://github.com/user-attachments/assets/e6d17f0c-0fce-4d9e-92c8-a309338ab48f" />
 
 SolidWorks Links:
