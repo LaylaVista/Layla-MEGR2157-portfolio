@@ -49,4 +49,6 @@ I spent approximately 5 hours on this assignment, with no major errors.
 
 SolidWorks Links:
 
-SVA6 PART.SLDPRT 
+<a href="CAD/SVA6 PART.SLDPRT" download>
+    Download SOLIDWORKS Part
+</a>
