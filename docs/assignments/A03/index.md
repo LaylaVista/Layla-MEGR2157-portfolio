@@ -44,3 +44,9 @@ I added an imaginary pinhole near the base of my bar with a diameter of 0.5 in. 
 
  - I learned how to use FEA simulation to find numerical approximations for internal stress and deflection of a bar under a tensile load
  - I learned how adding holes in a beam affects internal stress
+
+I spent approximately 5 hours on this assignment, with no major errors.
+
+SolidWorks Links:
+
+
