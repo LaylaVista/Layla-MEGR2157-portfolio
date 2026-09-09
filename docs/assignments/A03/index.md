@@ -28,16 +28,19 @@ The maximum internal stress came out to be 551.5 psi.
 
 <img width="947" height="663" alt="Screenshot 2026-09-09 102916" src="https://github.com/user-attachments/assets/05e5a70e-8a88-4def-8d64-99937404fa40" />
 
-The yield factor of aluminum was given as 40 ksi, or 40,000 psi. I then calculated the safety factor using the internal stress obtained through the simulation. The safety factor came out to be 72.53.
+The yield strength of aluminum was given as 40 ksi, or 40,000 psi. I then calculated the safety factor using the internal stress obtained through the simulation. The safety factor came out to be 72.53.
 
 ## Part 3 - Design Reflection
 
 <img width="1198" height="550" alt="Screenshot 2026-09-09 102925" src="https://github.com/user-attachments/assets/22528a45-f164-4597-85fd-bdbfc71e023a" />
 
-The percentage error between the given deflection and the simulation-calculated value was 0.344%. 
+The percentage error between the given deflection and the simulation-calculated value was 0.344%. The given and the simulation-calculated deflections were very similar. I believe this is because the geometry of the bar is very simple and uniform, with no major features(e.g., holes, fillets). I believe the hand-calculated value using the equation L = (Defl * E * A) / F is more trustworthy because it provides exact solutions for pure axial loading on a constant cross-section, whereas the FEA simulation provides a numerical approximation.
 
 <img width="952" height="662" alt="Screenshot 2026-09-09 102931" src="https://github.com/user-attachments/assets/5f854b60-77a9-4f47-bd07-245ed3b03c09" />
 
+I added an imaginary pinhole near the base of my bar with a diameter of 0.5 in. to see how it would affect the safety factor. I found the value of the stress concentration factor (Kt) for a hole in a flat bar in tension (Machinery's Handbook). The new calculated safety factor turned out to be 12.97, which is significantly lower than the previous safety factor. This is because when a pinhole is added to a bar, the internal stress greatly increases. 
 
-## Communicate
+## Part 4 - Lessons learned
 
+ - I learned how to use FEA simulation to find numerical approximations for internal stress and deflection of a bar under a tensile load
+ - I learned how adding holes in a beam affects internal stress
