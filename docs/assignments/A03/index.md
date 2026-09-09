@@ -49,4 +49,4 @@ I spent approximately 5 hours on this assignment, with no major errors.
 
 SolidWorks Links:
 
-
+SVA6 PART.SLDPRT 
