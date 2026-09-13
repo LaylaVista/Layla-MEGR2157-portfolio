@@ -1,4 +1,3 @@
-<img width="668" height="662" alt="Screenshot 2026-09-13 141749" src="https://github.com/user-attachments/assets/9a916f91-3a86-4bad-84f7-d6c257a7dcbb" />
 # A4 – Motor Mount
 
 ## Objective
