@@ -31,7 +31,7 @@ Minimum value of h.
 
 | h due to stress | h due to deflection |
 | --- | --- |
-| $$h = \sqrt{\frac{6 \cdot M \cdot SF}{S_y \cdot b}}$$ | Row 1, Col 2 |
+| $$h = \sqrt{\frac{6 \cdot M \cdot SF}{S_y \cdot b}}$$ | $h = \sqrt[3]{\frac{6 \cdot M \cdot L^2 \cdot SF}{E \cdot b \cdot δmax}}$ |
 
 
 
