@@ -14,7 +14,7 @@ The motor dimensions are given below along with the design constraints of featur
 
 ## Part 1 - Feature 1
 
-Since the maximum diameter of the motor is 28mm, I decided the length L would be 34 mm, and the width b would be 40mm. I then solved for the moment that feature 1 will be subjected to. 
+Since the maximum diameter of the motor is 28mm, I decided the length L would be 34 mm, and the width b would be 40mm, since I wanted feature 1 to be bigger than the actual motor. I then solved for the moment that feature 1 will be subjected to. 
 
 <img width="600" height="400" alt="Screenshot 2026-09-13 123253" src="https://github.com/user-attachments/assets/e5eb7a53-8626-44dc-88a4-2b3fe0634108" />
 
@@ -35,6 +35,7 @@ SF = Safety Factor(3)
 
 Sy = Yield Strength(40MPa)
 
+
 <ins>Unknowns</ins>:
 
 Minimum value of h
@@ -49,11 +50,21 @@ Now I can solve these equations for h, and then plug in the known values to solv
 | h due to stress | h due to deflection |
 | --- | --- |
 | $$h = \sqrt{\frac{6 \cdot M \cdot SF}{S_y \cdot b}}$$ | $h = \sqrt[3]{\frac{6 \cdot M \cdot L^2 \cdot SF}{E \cdot b \cdot δmax}}$ |
-| h<sub>strength</sub> = 7.794 | h<sub>stiffness</sub> = 16.729 |
+| h<sub>strength</sub> = 7.794mm | h<sub>stiffness</sub> = 16.729mm |
 
 Since h<sub>stiffness</sub> > h<sub>strength</sub> , we set h<sub>min</sub> = h<sub>stiffness</sub> = 16.729. I chose the largest value for h<sub>min</sub> because the stiffness is going to fail before the strength; therefore, the height has to accommodate stiffness. 
 
 ## Part 2 - Feature 2
+
+The total length of the motor was 74.7mm, so I decided to make the length of feature 2 75mm. The width b is the same as feature 1. I then decided on the location of the bolts. I solved for the moment the same way as I did in feature 1; however, I took the moment about the bolt that was closest to the applied force. Now, I only need to solve for thickness t.
+
+<img width="1156" height="664" alt="Screenshot 2026-09-13 131941" src="https://github.com/user-attachments/assets/25257048-a6d0-4943-ac69-ff88030d5df2" />
+
+Using the same equation as I did in feature 1, I solved for t:
+
+| t due to stress | t due to deflection |
+| --- | --- |
+| t<sub>strength</sub> = 11.325mm | t<sub>stiffness</sub> = 23.112mm |
 
 
 ## Part 3 - Isometric View
