@@ -20,10 +20,17 @@ Since the maximum diameter of the motor is 28mm, I decided the length L would be
 
 
 <ins>Knowns</ins>:
-δmax = 0.3mm; M = 5400Nmm; L = 34mm; b = 40mm; E = 2000MPa; SF = 3; Sy = 40MPa
+δmax = max. deflection(0.3mm)
+M = max. bending moment(5400Nmm)
+L = length(34mm)
+b = width(40mm)
+E = Modulus of Elasticity(2000MPa)
+SF = Safety Factor(3)
+Sy = Yield Strength(40MPa)
+I = mass moment of inertia of a rectangle = (bh^2/12)
 
 <ins>Unknowns</ins>:
-Minimum value of h.
+Minimum value of h
 
 
 I need to determine the minimum value of h using the beam bending equations from the lecture, which are given below:
