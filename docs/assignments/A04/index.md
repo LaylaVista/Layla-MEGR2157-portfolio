@@ -35,6 +35,8 @@ Now I can solve these equations for h to get the following equations:
 | $$h = \sqrt{\frac{6 \cdot M \cdot SF}{S_y \cdot b}}$$ | $h = \sqrt[3]{\frac{6 \cdot M \cdot L^2 \cdot SF}{E \cdot b \cdot δmax}}$ |
 | h = 7.794 | h = 16.729 |
 
+Since h<sub>stiffness > h<sub>strength
+
 
 ## Part 2 - Feature 2
 
