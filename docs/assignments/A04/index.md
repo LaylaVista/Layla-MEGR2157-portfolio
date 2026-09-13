@@ -18,13 +18,14 @@ Since the maximum diameter of the motor is 28mm, I decided the length L would be
 
 <img width="600" height="400" alt="Screenshot 2026-09-13 123253" src="https://github.com/user-attachments/assets/e5eb7a53-8626-44dc-88a4-2b3fe0634108" />
 
-Knowns:
 
+<ins>Knowns</ins>:
 δmax = 0.3mm; M = 5400Nmm; L = 34mm; b = 40mm; E = 2000MPa; SF = 3; Sy = 40MPa
 
-Unknowns:
-
+<ins>Unknowns</ins>:
 Minimum value of h.
+
+
 
 <img width="500" height="400" alt="Screenshot 2026-09-13 123245" src="https://github.com/user-attachments/assets/f74b9e7a-d12a-4dfe-a3f0-ed609a292193" />
 
