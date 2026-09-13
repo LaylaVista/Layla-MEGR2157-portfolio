@@ -52,7 +52,7 @@ Now I can solve these equations for h, and then plug in the known values to solv
 | $$h = \sqrt{\frac{6 \cdot M \cdot SF}{S_y \cdot b}}$$ | $h = \sqrt[3]{\frac{6 \cdot M \cdot L^2 \cdot SF}{E \cdot b \cdot δmax}}$ |
 | h<sub>strength</sub> = 7.794mm | h<sub>stiffness</sub> = 16.729mm |
 
-Since h<sub>stiffness</sub> > h<sub>strength</sub> , we set h<sub>min</sub> = h<sub>stiffness</sub> = 16.729. I chose the largest value for h<sub>min</sub> because the stiffness is going to fail before the strength; therefore, the height has to accommodate stiffness. 
+Since h<sub>stiffness</sub> > h<sub>strength</sub> , we set h<sub>min</sub> = h<sub>stiffness</sub> = 16.729mm. I chose the largest value for h<sub>min</sub> because the stiffness is going to fail before the strength; therefore, the height has to accommodate stiffness. 
 
 ## Part 2 - Feature 2
 
@@ -66,8 +66,11 @@ Using the same equation as I did in feature 1, I solved for t:
 | --- | --- |
 | t<sub>strength</sub> = 11.325mm | t<sub>stiffness</sub> = 23.112mm |
 
+Since t<sub>stiffness</sub> > t<sub>strength</sub> , we set t<sub>min</sub> = t<sub>stiffness</sub> = 23.112mm.
 
 ## Part 3 - Isometric View
+
+
 
 ## Part 4 - CAD Model
 
