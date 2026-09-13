@@ -91,7 +91,7 @@ The diameter of the second innermost circle was 18mm, which I cut only 2mm down 
 
 Then I made the holes for the bolts using the same dimensions as the motor and did a circular pattern.
 
-<img width="425" height="500" alt="Screenshot 2026-09-13 142431" src="https://github.com/user-attachments/assets/31f51d7f-513a-4454-9fbf-c63ed2e664e1" />
+<img width="450" height="500" alt="Screenshot 2026-09-13 142431" src="https://github.com/user-attachments/assets/31f51d7f-513a-4454-9fbf-c63ed2e664e1" />
 
 <img width="400" height="500" alt="Screenshot 2026-09-13 142450" src="https://github.com/user-attachments/assets/66f66033-d754-42ce-b936-7e41f4948695" />
 
