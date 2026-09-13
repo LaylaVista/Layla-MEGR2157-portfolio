@@ -107,6 +107,6 @@ Finally, I made the bolts for feature 2 using a linear pattern.
 
 SolidWorks Links:
 
-<a href="A4 motor mount.SLDPRT" download>
+<a href="A4 Motor Mount.SLDPRT" download>
     Download SOLIDWORKS Part
 </a>
