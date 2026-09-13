@@ -1,3 +1,4 @@
+<img width="668" height="662" alt="Screenshot 2026-09-13 141749" src="https://github.com/user-attachments/assets/9a916f91-3a86-4bad-84f7-d6c257a7dcbb" />
 # A4 – Motor Mount
 
 ## Objective
@@ -70,6 +71,7 @@ Since t<sub>stiffness</sub> > t<sub>strength</sub> , we set t<sub>min</sub> = t<
 
 ## Part 3 - Isometric View
 
+<img width="668" height="662" alt="Screenshot 2026-09-13 141749" src="https://github.com/user-attachments/assets/60ee34a4-784e-4bc4-bc19-5c30a5d03c1f" />
 
 
 ## Part 4 - CAD Model
