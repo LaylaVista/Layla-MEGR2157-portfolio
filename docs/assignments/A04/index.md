@@ -8,9 +8,9 @@ The motor dimensions are given below along with the design constraints of featur
 
 <img width="1038" height="318" alt="Screenshot 2026-09-12 144448" src="https://github.com/user-attachments/assets/5f64dc59-8e49-4508-aedc-b03ee6774db3" />
 
-<img width="500" height="450" alt="Screenshot 2026-09-13 120815" src="https://github.com/user-attachments/assets/c8120a21-72b1-4683-9f27-7c05b0a6151b" />
+<img width="400" height="350" alt="Screenshot 2026-09-13 120815" src="https://github.com/user-attachments/assets/c8120a21-72b1-4683-9f27-7c05b0a6151b" />
 
-<img width="500" height="500" alt="Screenshot 2026-09-13 122055" src="https://github.com/user-attachments/assets/108f3469-4e61-40e5-ae74-bbcff160daf9" />
+<img width="400" height="400" alt="Screenshot 2026-09-13 122055" src="https://github.com/user-attachments/assets/108f3469-4e61-40e5-ae74-bbcff160daf9" />
 
 ## Part 1 - Feature 1
 
