@@ -31,8 +31,8 @@ Minimum value of h.
 
 | h due to stress | h due to deflection |
 | --- | --- |
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
+| h = $\sqrt{a^2 + b^2} = c$ | Row 1, Col 2 |
+
 
 
 ## Part 2 - Feature 2
