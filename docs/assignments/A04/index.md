@@ -81,11 +81,9 @@ Using the global parameters in SolidWorks, I set the height and the thickness to
 
 <img width="300" height="400" alt="Screenshot 2026-09-13 142131" src="https://github.com/user-attachments/assets/c8b46157-1500-428c-bf90-a1af04b9891a" />
 
-The diameter of the innermost circle was to be 6mm, and I extrude cut through the entire mount.
+The diameter of the innermost circle was to be 6mm, and I extrude cut through the entire mount. The diameter of the second innermost circle was 18mm, which I cut only 2mm down into the mount.
 
 <img width="400" height="400" alt="Screenshot 2026-09-13 142315" src="https://github.com/user-attachments/assets/bbe72f48-6464-4f71-9854-4c0d068036e9" />
-
-The diameter of the second innermost circle was 18mm, which I cut only 2mm down into the mount.
 
 <img width="425" height="400" alt="Screenshot 2026-09-13 142409" src="https://github.com/user-attachments/assets/5c48d971-2d6c-4c90-8526-94c8295134cd" />
 
