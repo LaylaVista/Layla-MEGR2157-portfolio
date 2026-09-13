@@ -87,13 +87,13 @@ The diameter of the innermost circle was to be 6mm, and I extrude cut through th
 
 <img width="425" height="400" alt="Screenshot 2026-09-13 142409" src="https://github.com/user-attachments/assets/5c48d971-2d6c-4c90-8526-94c8295134cd" />
 
-Then I made the holes for the bolts using the same dimensions as the motor and did a circular pattern.
+Then I made the holes for the bolts using a circular pattern to match the dimensions of the motor.
 
 <img width="450" height="500" alt="Screenshot 2026-09-13 142431" src="https://github.com/user-attachments/assets/31f51d7f-513a-4454-9fbf-c63ed2e664e1" />
 
 <img width="400" height="500" alt="Screenshot 2026-09-13 142450" src="https://github.com/user-attachments/assets/66f66033-d754-42ce-b936-7e41f4948695" />
 
-Finally, I made the bolts for feature 2 and did a linear pattern to make it symmetrical.
+Finally, I made the bolts for feature 2 using a linear pattern.
 
 <img width="350" height="500" alt="Screenshot 2026-09-13 142714" src="https://github.com/user-attachments/assets/085fd416-91f6-4ffb-bc34-ff50391b5b2c" />
 
