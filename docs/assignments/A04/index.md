@@ -77,7 +77,7 @@ Since t<sub>stiffness</sub> > t<sub>strength</sub> , we set t<sub>min</sub> = t<
 
 Using the global parameters in SolidWorks, I set the height and the thickness to the calculated values.
 
-<img width="700" height="200" alt="Screenshot 2026-09-13 142146" src="https://github.com/user-attachments/assets/2da348a7-785c-4b43-ab3d-525cdb809fc7" />
+<img width="700" height="300" alt="Screenshot 2026-09-13 142146" src="https://github.com/user-attachments/assets/2da348a7-785c-4b43-ab3d-525cdb809fc7" />
 
 <img width="300" height="400" alt="Screenshot 2026-09-13 142131" src="https://github.com/user-attachments/assets/c8b46157-1500-428c-bf90-a1af04b9891a" />
 
@@ -97,7 +97,7 @@ Then I made the holes for the bolts using the same dimensions as the motor and d
 
 Finally, I made the bolts for feature 2 and did a linear pattern to make it symmetrical.
 
-<img width="300" height="500" alt="Screenshot 2026-09-13 142714" src="https://github.com/user-attachments/assets/085fd416-91f6-4ffb-bc34-ff50391b5b2c" />
+<img width="350" height="500" alt="Screenshot 2026-09-13 142714" src="https://github.com/user-attachments/assets/085fd416-91f6-4ffb-bc34-ff50391b5b2c" />
 
 <img width="300" height="500" alt="Screenshot 2026-09-13 142840" src="https://github.com/user-attachments/assets/12949d0e-77e3-4a3b-9349-0ce0f05c976c" />
 
