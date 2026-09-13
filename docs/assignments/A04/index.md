@@ -75,17 +75,27 @@ Since t<sub>stiffness</sub> > t<sub>strength</sub> , we set t<sub>min</sub> = t<
 
 ## Part 4 - CAD Model
 
+Using the global parameters in SolidWorks, I set the height and the thickness to the calculated values.
+
 <img width="928" height="421" alt="Screenshot 2026-09-13 142146" src="https://github.com/user-attachments/assets/2da348a7-785c-4b43-ab3d-525cdb809fc7" />
 
 <img width="521" height="663" alt="Screenshot 2026-09-13 142131" src="https://github.com/user-attachments/assets/c8b46157-1500-428c-bf90-a1af04b9891a" />
 
+The diameter of the innermost circle was to be 6mm, and I extrude cut through the entire mount.
+
 <img width="728" height="752" alt="Screenshot 2026-09-13 142315" src="https://github.com/user-attachments/assets/bbe72f48-6464-4f71-9854-4c0d068036e9" />
 
+The diameter of the second innermost circle was 18mm, which I cut only 2mm down into the mount.
+
 <img width="792" height="757" alt="Screenshot 2026-09-13 142409" src="https://github.com/user-attachments/assets/5c48d971-2d6c-4c90-8526-94c8295134cd" />
+
+Then I made the holes for the bolts using the same dimensions as the motor and did a circular pattern.
 
 <img width="593" height="683" alt="Screenshot 2026-09-13 142431" src="https://github.com/user-attachments/assets/31f51d7f-513a-4454-9fbf-c63ed2e664e1" />
 
 <img width="572" height="687" alt="Screenshot 2026-09-13 142450" src="https://github.com/user-attachments/assets/66f66033-d754-42ce-b936-7e41f4948695" />
+
+Finally, I made the bolts for feature 2 and did a linear pattern to make it symmetrical.
 
 <img width="487" height="672" alt="Screenshot 2026-09-13 142714" src="https://github.com/user-attachments/assets/085fd416-91f6-4ffb-bc34-ff50391b5b2c" />
 
