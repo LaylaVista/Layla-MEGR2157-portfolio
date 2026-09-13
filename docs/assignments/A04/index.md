@@ -21,17 +21,11 @@ Since the maximum diameter of the motor is 28mm, I decided the length L would be
 Knowns:
 
 δmax = 0.3mm
-
 M = 5400Nmm
-
 L = 34mm
-
 b = 40mm
-
 E = 2000MPa
-
 SF = 3
-
 Sy = 40MPa
 
 ## Part 2 - Feature 2
