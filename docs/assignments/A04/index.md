@@ -31,7 +31,7 @@ Minimum value of h.
 
 | h due to stress | h due to deflection |
 | --- | --- |
-| h = $\sqrt{a^2 + b^2} = c$ | Row 1, Col 2 |
+| h = $\sqrt{(6*M*SF)/(Sy*b} = c$ | Row 1, Col 2 |
 
 
 
