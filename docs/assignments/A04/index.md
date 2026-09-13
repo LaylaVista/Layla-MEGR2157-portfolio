@@ -35,8 +35,7 @@ Now I can solve these equations for h, and then plug in the known values to solv
 | $$h = \sqrt{\frac{6 \cdot M \cdot SF}{S_y \cdot b}}$$ | $h = \sqrt[3]{\frac{6 \cdot M \cdot L^2 \cdot SF}{E \cdot b \cdot δmax}}$ |
 | h<sub>strength</sub> = 7.794 | h<sub>stiffness</sub> = 16.729 |
 
-Since h<sub>stiffness</sub> > h<sub>strength</sub> , we set h<sub>min</sub> = h<sub>stiffness</sub> = 16.729.
-
+Since h<sub>stiffness</sub> > h<sub>strength</sub> , we set h<sub>min</sub> = h<sub>stiffness</sub> = 16.729. I chose the largest value for h<sub>min</sub> because the stiffness is going to fail before the strength; therefore, the height has to accommodate stiffness. 
 
 ## Part 2 - Feature 2
 
