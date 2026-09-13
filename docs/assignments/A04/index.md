@@ -2,7 +2,7 @@
 
 ## Objective
 
-Design a motor mount consisting of two features. Design both features for yield strength and for maximum deflection. The max deflection is to be 0.3mm, and the safety factor is 3.0 for both features. Sketch the final design as an isometric view, and then 3D model the design in SolidWorks using parametric modeling techniques when applicable. 
+Design a motor mount consisting of two features. Design both features for yield strength and for maximum deflection. The max deflection is to be 0.3mm, and the safety factor is 3.0 for both features. The mount will be made out of ABS. Sketch the final design as an isometric view, and then 3D model the design in SolidWorks using parametric modeling techniques when applicable. 
 
 The motor dimensions are given below along with the design constraints of features 1 and 2. The force applied is given as 300N to the right. 
 
@@ -14,6 +14,20 @@ The motor dimensions are given below along with the design constraints of featur
 
 ## Part 1 - Feature 1
 
+Since the maximum diameter of the motor is 28mm, I decided the length L would be 34 mm, and the width b would be 40mm. I then solved for the moment that feature 1 will be subjected to. 
+
+<img width="1002" height="663" alt="Screenshot 2026-09-13 123253" src="https://github.com/user-attachments/assets/e5eb7a53-8626-44dc-88a4-2b3fe0634108" />
+
+
+| Knowns | Unknowns | 
+| --- | --- | --- |
+| δmax = 0.3mm | h due to stress | 
+| M = 5400Nmm |  | 
+| L = 34mm |  | 
+| b = 40mm |  | 
+| E = 2000MPa |  | 
+| SF = 3 |  | 
+| Sy = 40MPa |  | 
 
 ## Part 2 - Feature 2
 
