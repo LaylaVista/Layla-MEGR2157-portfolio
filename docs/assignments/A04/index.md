@@ -19,15 +19,14 @@ Since the maximum diameter of the motor is 28mm, I decided the length L would be
 <img width="600" height="400" alt="Screenshot 2026-09-13 123253" src="https://github.com/user-attachments/assets/e5eb7a53-8626-44dc-88a4-2b3fe0634108" />
 
 
-<ins>Knowns</ins>:
-δmax = max. deflection(0.3mm)
-M = max. bending moment(5400Nmm)
-L = length(34mm)
-b = width(40mm)
-E = Modulus of Elasticity(2000MPa)
-SF = Safety Factor(3)
-Sy = Yield Strength(40MPa)
-I = mass moment of inertia of a rectangle = (bh^2/12)
+<ins>Knowns</ins>: \r\n
+δmax = max. deflection(0.3mm) \r\n
+M = max. bending moment(5400Nmm) \r\n
+L = length(34mm) \r\n
+b = width(40mm) \r\n
+E = Modulus of Elasticity(2000MPa) \r\n
+SF = Safety Factor(3) \r\n
+Sy = Yield Strength(40MPa) \r\n I = mass moment of inertia of a rectangle = (bh^2/12) \r\n
 
 <ins>Unknowns</ins>:
 Minimum value of h
