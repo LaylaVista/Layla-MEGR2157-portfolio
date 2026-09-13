@@ -33,7 +33,7 @@ I = mass moment of inertia of a rectangle = (bh^2/12)
 Minimum value of h
 
 
-I need to determine the minimum value of h using the beam bending equations from the lecture, which are given below:
+I need to determine the minimum value of h using the beam bending equations from the lecture, which are given below. In the equation, I set σ<sub>max</sub> = Sy/SF, and the mass moment of inertia of a rectangle equal to bh^3/12.
 
 <img width="500" height="400" alt="Screenshot 2026-09-13 123245" src="https://github.com/user-attachments/assets/f74b9e7a-d12a-4dfe-a3f0-ed609a292193" />
 
