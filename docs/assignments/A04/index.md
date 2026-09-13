@@ -26,6 +26,7 @@ Since the maximum diameter of the motor is 28mm, I decided the length L would be
 Minimum value of h.
 
 
+I need to determine the minimum value of h using the beam bending equations from the lecture, which are given below:
 
 <img width="500" height="400" alt="Screenshot 2026-09-13 123245" src="https://github.com/user-attachments/assets/f74b9e7a-d12a-4dfe-a3f0-ed609a292193" />
 
