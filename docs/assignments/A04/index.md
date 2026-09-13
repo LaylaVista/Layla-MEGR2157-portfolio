@@ -101,8 +101,11 @@ Finally, I made the bolts for feature 2 using a linear pattern.
 
 ## Lessons Learned
 
-SolidWorks Links:
+ - I got a refresher on mass moment of inertia
+ - I learned how to use beam bending equations for both stress and deflection
+ - I learned how to input equations and tables into github
 
+SolidWorks Links:
 
 <a href="A4 motor mount.SLDPRT" download>
     Download SOLIDWORKS Part
