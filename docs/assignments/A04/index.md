@@ -30,10 +30,13 @@ L = length(34mm
 b = width(40mm)
 
 E = Modulus of Elasticity(2000MPa)
+
 SF = Safety Factor(3)
+
 Sy = Yield Strength(40MPa)
 
 <ins>Unknowns</ins>:
+
 Minimum value of h
 
 
