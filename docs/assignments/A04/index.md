@@ -16,7 +16,7 @@ The motor dimensions are given below along with the design constraints of featur
 
 Since the maximum diameter of the motor is 28mm, I decided the length L would be 34 mm, and the width b would be 40mm. I then solved for the moment that feature 1 will be subjected to. 
 
-<img width="1002" height="663" alt="Screenshot 2026-09-13 123253" src="https://github.com/user-attachments/assets/e5eb7a53-8626-44dc-88a4-2b3fe0634108" />
+<img width="600" height="400" alt="Screenshot 2026-09-13 123253" src="https://github.com/user-attachments/assets/e5eb7a53-8626-44dc-88a4-2b3fe0634108" />
 
 Knowns:
 
@@ -26,7 +26,7 @@ Unknowns:
 
 Minimum value of h.
 
-<img width="776" height="663" alt="Screenshot 2026-09-13 123245" src="https://github.com/user-attachments/assets/f74b9e7a-d12a-4dfe-a3f0-ed609a292193" />
+<img width="500" height="400" alt="Screenshot 2026-09-13 123245" src="https://github.com/user-attachments/assets/f74b9e7a-d12a-4dfe-a3f0-ed609a292193" />
 
 
 | h due to stress | h due to deflection |
