@@ -45,7 +45,7 @@ I need to determine the minimum value of h using the beam bending equations from
 
 <img width="500" height="400" alt="Screenshot 2026-09-13 123245" src="https://github.com/user-attachments/assets/f74b9e7a-d12a-4dfe-a3f0-ed609a292193" />
 
-<img width="1112" height="500" alt="Screenshot 2026-09-16 081853" src="https://github.com/user-attachments/assets/adf4e814-e18f-486b-bea0-e08c30d6bbc6" />
+<img width="500" height="250" alt="Screenshot 2026-09-16 081853" src="https://github.com/user-attachments/assets/adf4e814-e18f-486b-bea0-e08c30d6bbc6" />
 
 Now I can solve these equations for h, and then plug in the known values to solve for h<sub>min</sub>.
 
