@@ -106,6 +106,8 @@ Finally, I made the bolts for feature 2 using a linear pattern.
  - I learned how to use beam bending equations for both stress and deflection
  - I learned how to input equations and tables into github
 
+This assignment took me approximately 6 hours to complete
+
 SolidWorks Links:
 
 <a href="A4 Motor Mount.SLDPRT" download>
