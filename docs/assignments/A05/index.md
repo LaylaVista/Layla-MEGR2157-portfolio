@@ -13,13 +13,13 @@ The Uline strap is 3/4" wide, so I set feature A to be 1" long. I set the force 
 
 <img width="958" height="463" alt="Screenshot 2026-09-24 075029" src="https://github.com/user-attachments/assets/c648cadb-3a2b-456f-b5ce-add5000e77eb" />
 <img width="621" height="665" alt="Screenshot 2026-09-24 075035" src="https://github.com/user-attachments/assets/c1cec5ce-ab1a-4dcd-b44a-c23498ee9e70" />
+<img width="581" height="665" alt="Screenshot 2026-09-24 081242" src="https://github.com/user-attachments/assets/290386a3-4b69-40d2-b84f-858595382969" />
 <img width="1145" height="663" alt="Screenshot 2026-09-24 075042" src="https://github.com/user-attachments/assets/e244efa8-844d-4d08-8e98-edbae0bed411" />
-
 
 ## Deflection Analysis
 
-<img width="427" height="514" alt="Screenshot 2026-09-24 075054" src="https://github.com/user-attachments/assets/373e9a26-f109-4c56-bf5f-2b15fa3578e7" />
-<img width="521" height="661" alt="Screenshot 2026-09-24 075059" src="https://github.com/user-attachments/assets/0852f54e-238b-4161-9c3a-9f3dd1aee283" />
+<img width="530" height="664" alt="Screenshot 2026-09-24 075048" src="https://github.com/user-attachments/assets/49129861-6d0e-40ef-8cc8-1fd7f9e0f075" />
+<img width="521" height="661" alt="Screenshot 2026-09-24 075059" src="https://github.com/user-attachments/assets/32ef51dc-2e85-4c88-a66a-e41bfae5e57e" />
 
 ## Drawings
 
