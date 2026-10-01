@@ -18,3 +18,10 @@
 
 ## Communicate
 
+<a href="A6.SLDPRT" download>
+    Download SOLIDWORKS Part
+</a>
+
+<a href="A6.SLDPRT" download>
+    Download SOLIDWORKS Drawing
+</a>
