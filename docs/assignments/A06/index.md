@@ -22,6 +22,6 @@
     Download SOLIDWORKS Part
 </a>
 
-<a href="A6.SLDPRT" download>
+<a href="A6.SLDDRW" download>
     Download SOLIDWORKS Drawing
 </a>
