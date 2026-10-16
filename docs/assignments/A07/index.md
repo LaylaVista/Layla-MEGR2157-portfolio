@@ -10,13 +10,13 @@ Using the bracket model from assignments A4 and A5, optimize the model for stiff
 ## Geometry
 
 
-| Header 1 | Header 2 | Header 3 | Header 4 |
+|   |  Design 1 | Design 2 | Design 3 |
 | --- | --- | --- | --- |
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
-| Row 4 Col 1 | Row 4 Col 2 | Row 4 Col 3 | Row 4 Col 4 |
-| Row 5 Col 1 | Row 5 Col 2 | Row 5 Col 3 | Row 5 Col 4 |
+| Max stress and location | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 |
+| Max deflection and location | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 |
+| Mass | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
+| Safety Factor | Row 4 Col 2 | Row 4 Col 3 | Row 4 Col 4 |
+| Number of elements | Row 5 Col 2 | Row 5 Col 3 | Row 5 Col 4 |
 
 
 ## Lessons Learned
