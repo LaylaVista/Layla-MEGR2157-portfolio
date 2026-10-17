@@ -15,10 +15,10 @@ For my FEA analysis, I fixed the top part of my bracket since this part will not
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
 | Number of elements | 9337 | 19536 | 35875 |
-| Max stress and location | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 |
-| Max deflection and location | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 |
+| Max stress and location | 1.18*10^6 psi | 1.345*10^6 psi | 1.413*10^6 psi |
+| Max deflection and location | 52.63 mm | 53.58 mm | 54.01 mm |
 | Mass | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
-| Safety Factor | Row 4 Col 2 | Row 4 Col 3 | Row 4 Col 4 |
+| Safety Factor | 0.0338 | 0.0297 | 0.0282 |
 
 
 ## Lessons Learned
