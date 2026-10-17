@@ -10,16 +10,37 @@ For my FEA analysis, I fixed the top part of my bracket since this part will not
 
 ## Design 1
 
+For design 1, I kept the original design that I created in A6. My max stress was much higher than the material's yield strength, making my safety factor well below 3. The area on the model under the most stress was the part that connects the rod to the rest of the bracket. The part where the maximum deflection occurred was at the end of the rod. I knew that if I wanted to increase strength and stiffness, then both of these areas would need to be redesigned. I also need to make the rest of the bracket thicker to increase the safety factor.
+
+|   | Mesh 1 | Mesh 2 | Mesh 3 |
+| --- | --- | --- | --- |
+| Number of elements | 9337 | 19536 | 35875 |
+| Max stress | 1.18*10^6 psi | 1.345*10^6 psi | 1.413*10^6 psi |
+| Max deflection | 52.63 mm | 53.58 mm | 54.01 mm |
+| Mass | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
+| Safety Factor | 0.0338 | 0.0297 | 0.0282 |
+
+
+## Design 2
+
+|   | Mesh 1 | Mesh 2 | Mesh 3 |
+| --- | --- | --- | --- |
+| Number of elements | 9337 | 19536 | 35875 |
+| Max stress | 1.18*10^6 psi | 1.345*10^6 psi | 1.413*10^6 psi |
+| Max deflection | 52.63 mm | 53.58 mm | 54.01 mm |
+| Mass | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
+| Safety Factor | 0.0338 | 0.0297 | 0.0282 |
+
+## Design 3
 
 
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
 | Number of elements | 9337 | 19536 | 35875 |
-| Max stress and location | 1.18*10^6 psi | 1.345*10^6 psi | 1.413*10^6 psi |
-| Max deflection and location | 52.63 mm | 53.58 mm | 54.01 mm |
+| Max stress | 1.18*10^6 psi | 1.345*10^6 psi | 1.413*10^6 psi |
+| Max deflection | 52.63 mm | 53.58 mm | 54.01 mm |
 | Mass | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
 | Safety Factor | 0.0338 | 0.0297 | 0.0282 |
 
 
-## Lessons Learned
 
