@@ -39,6 +39,8 @@ Mesh 3
 
 ## Design 2
 
+I made all the walls on my bracket thicker, except for the top two cantilever beams, since they had the lowest stress. Then, I designed a triangular piece to hold the bottom rod to reduce the stress in that piece. I also added fillets around parts of the bracket that experienced low stress and around the triangular piece. 
+
 <img width="657" height="611" alt="Screenshot 2026-10-18 113552" src="https://github.com/user-attachments/assets/dc75f7fe-e60f-451c-b0c1-74d972d23046" />
 <img width="783" height="688" alt="Screenshot 2026-10-18 113600" src="https://github.com/user-attachments/assets/fa202c7c-84a8-4aa7-9d8f-32a2b682e073" />
 
@@ -54,15 +56,19 @@ Mesh 3
 <img width="950" height="717" alt="Screenshot 2026-10-18 114258" src="https://github.com/user-attachments/assets/088f3384-e055-4f06-8b85-3ed3ff5fedc0" />
 <img width="882" height="717" alt="Screenshot 2026-10-18 114312" src="https://github.com/user-attachments/assets/f53ca854-cb27-46e7-bf5b-1af01557c48d" />
 
+Adding these features greatly decreased the max stress and deflection; however, the safety factor was still below 3.
+
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
 | Number of elements | 9337 | 19536 | 35875 |
-| Max stress | 1.18*10^6 psi | 1.345*10^6 psi | 1.413*10^6 psi |
-| Max deflection | 52.63 mm | 53.58 mm | 54.01 mm |
-| Mass | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
-| Safety Factor | 0.0338 | 0.0297 | 0.0282 |
+| Max stress | 3.501*10^4 psi | 3.642*10^4 psi | 3.698*10^4 psi |
+| Max deflection | 0.4216 mm | 0.4234 mm | 0.4240 mm |
+| Mass | 0.25 lb | 0.25 lb | 0.25 lb |
+| Safety Factor | 1.139 | 1.095 | 1.079 |
 
 ## Design 3
+
+For my third design, I decided to increase the length of the entire bracket so I could add another piece to hold the opposite end of the rod. I also added fillets around this newly added piece. I also added some holes on the top two cantilever beams at the top of the bracket to help decrease the mass.
 
 <img width="751" height="661" alt="Screenshot 2026-10-18 121012" src="https://github.com/user-attachments/assets/81f68b01-5ba8-4258-ab14-4ac3c6b4c02e" />
 
@@ -78,13 +84,15 @@ Mesh 3
 <img width="885" height="622" alt="Screenshot 2026-10-18 121313" src="https://github.com/user-attachments/assets/c6598024-a471-4661-b936-43ede0e44d2e" />
 <img width="833" height="611" alt="Screenshot 2026-10-18 121354" src="https://github.com/user-attachments/assets/7cfb36de-7183-4369-9876-5b8d0b8e79f3" />
 
+This piece helped decrease the max stress and deflection.
+
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
 | Number of elements | 9337 | 19536 | 35875 |
-| Max stress | 1.18*10^6 psi | 1.345*10^6 psi | 1.413*10^6 psi |
-| Max deflection | 52.63 mm | 53.58 mm | 54.01 mm |
-| Mass | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
-| Safety Factor | 0.0338 | 0.0297 | 0.0282 |
+| Max stress | 1.59*10^4 psi | 1.56*10^4 psi | 1.646*10^4 psi |
+| Max deflection | 0.1273 mm | 0.1278 mm | 0.128 mm |
+| Mass | 0.32 lb | 0.32 lb | 0.32 lb |
+| Safety Factor | 2.51 | 2.56 | 2.42 |
 
 
 
