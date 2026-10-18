@@ -16,14 +16,17 @@ For design 1, I kept the original design that I created in A6. My max stress was
 <img width="1596" height="807" alt="Screenshot 2026-10-18 105953" src="https://github.com/user-attachments/assets/3a2fc138-2bb6-447b-8df0-8c62a7dc39e6" />
 
 Mesh 1
+
 <img width="1291" height="828" alt="Screenshot 2026-10-18 110108" src="https://github.com/user-attachments/assets/1ffcd566-b066-49bf-bf6d-f7542d92481d" />
 <img width="1147" height="785" alt="Screenshot 2026-10-18 110149" src="https://github.com/user-attachments/assets/ca1cf7d2-a9fd-4e6c-8402-e4de3aad59b7" />
 
 Mesh 2
+
 <img width="1102" height="746" alt="Screenshot 2026-10-18 110254" src="https://github.com/user-attachments/assets/f8fc2d4c-9dab-4c3c-b433-64712fd655aa" />
 <img width="1172" height="748" alt="Screenshot 2026-10-18 110322" src="https://github.com/user-attachments/assets/69edd64e-3e0d-40f5-9712-1699b6d92401" />
 
 Mesh 3
+
 <img width="1008" height="742" alt="Screenshot 2026-10-18 110400" src="https://github.com/user-attachments/assets/89e09783-da48-426d-b227-a6c70ac2adde" />
 <img width="1061" height="742" alt="Screenshot 2026-10-18 110425" src="https://github.com/user-attachments/assets/68a49f66-e268-4a41-a3fe-7049fef7dc0b" />
 
@@ -45,14 +48,17 @@ I made all the walls on my bracket thicker, except for the top two cantilever be
 <img width="783" height="688" alt="Screenshot 2026-10-18 113600" src="https://github.com/user-attachments/assets/fa202c7c-84a8-4aa7-9d8f-32a2b682e073" />
 
 Mesh 1
+
 <img width="1008" height="751" alt="Screenshot 2026-10-18 113906" src="https://github.com/user-attachments/assets/348d17f7-c9bd-4fd7-9bb9-a5115e2323ae" />
 <img width="988" height="755" alt="Screenshot 2026-10-18 113918" src="https://github.com/user-attachments/assets/ea6c19f2-9343-4573-84b1-763c834170b6" />
 
 Mesh 2
+
 <img width="945" height="681" alt="Screenshot 2026-10-18 114141" src="https://github.com/user-attachments/assets/41e60398-3040-4f2f-99ad-117ceec55f65" />
 <img width="870" height="690" alt="Screenshot 2026-10-18 114201" src="https://github.com/user-attachments/assets/7f66d4cb-2e17-483d-b321-1751f549861f" />
 
 Mesh 3
+
 <img width="950" height="717" alt="Screenshot 2026-10-18 114258" src="https://github.com/user-attachments/assets/088f3384-e055-4f06-8b85-3ed3ff5fedc0" />
 <img width="882" height="717" alt="Screenshot 2026-10-18 114312" src="https://github.com/user-attachments/assets/f53ca854-cb27-46e7-bf5b-1af01557c48d" />
 
@@ -68,23 +74,26 @@ Adding these features greatly decreased the max stress and deflection; however, 
 
 ## Design 3
 
-For my third design, I decided to increase the length of the entire bracket so I could add another piece to hold the opposite end of the rod. I also added fillets around this newly added piece. I also added some holes on the top two cantilever beams at the top of the bracket to help decrease the mass.
+For my third design, I decided to increase the length of the entire bracket so I could add another piece to hold the opposite end of the rod. I also added fillets around this newly added piece. I also added some holes on the top two cantilever beams at the top of the bracket to help decrease the mass, since these pieces experienced the least amount of stress.
 
 <img width="751" height="661" alt="Screenshot 2026-10-18 121012" src="https://github.com/user-attachments/assets/81f68b01-5ba8-4258-ab14-4ac3c6b4c02e" />
 
 Mesh 1
+
 <img width="862" height="638" alt="Screenshot 2026-10-18 121102" src="https://github.com/user-attachments/assets/9853dfb6-90c8-4608-9e14-800d1ccdd38d" />
 <img width="867" height="657" alt="Screenshot 2026-10-18 121135" src="https://github.com/user-attachments/assets/90ed38c2-a597-43c2-9bb3-6a9353acb7dc" />
 
 Mesh 2
+
 <img width="932" height="657" alt="Screenshot 2026-10-18 121158" src="https://github.com/user-attachments/assets/59b24c7c-02d0-4723-b669-1a20c3f6aec8" />
 <img width="847" height="607" alt="Screenshot 2026-10-18 121230" src="https://github.com/user-attachments/assets/8a5cc7d0-1a03-484e-8090-8b9c36a538d1" />
 
 Mesh 3
+
 <img width="885" height="622" alt="Screenshot 2026-10-18 121313" src="https://github.com/user-attachments/assets/c6598024-a471-4661-b936-43ede0e44d2e" />
 <img width="833" height="611" alt="Screenshot 2026-10-18 121354" src="https://github.com/user-attachments/assets/7cfb36de-7183-4369-9876-5b8d0b8e79f3" />
 
-This piece helped decrease the max stress and deflection.
+This piece helped decrease the max stress and deflection. I was able to achieve a deflection of less than .25 mm; however, I was unable to achieve a safety factor of 3.
 
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
@@ -95,4 +104,14 @@ This piece helped decrease the max stress and deflection.
 | Safety Factor | 2.51 | 2.56 | 2.42 |
 
 
+
+## Lessons Learned
+
+ - I learned how to use finite element analysis (FEA) to optimize a design
+ - I learned how to use FEA to determine which areas of a design experience the highest and lowest amounts of stress and deflection
+ - I learned that you can add triangular cutouts and rounded cutouts on parts of the design that experience a low amount of stress to decrease the weight of a design
+
+I spent about 5 hours on this assignment
+
+## SolidWorks Files
 
