@@ -39,6 +39,21 @@ Mesh 3
 
 ## Design 2
 
+<img width="657" height="611" alt="Screenshot 2026-10-18 113552" src="https://github.com/user-attachments/assets/dc75f7fe-e60f-451c-b0c1-74d972d23046" />
+<img width="783" height="688" alt="Screenshot 2026-10-18 113600" src="https://github.com/user-attachments/assets/fa202c7c-84a8-4aa7-9d8f-32a2b682e073" />
+
+Mesh 1
+<img width="1008" height="751" alt="Screenshot 2026-10-18 113906" src="https://github.com/user-attachments/assets/348d17f7-c9bd-4fd7-9bb9-a5115e2323ae" />
+<img width="988" height="755" alt="Screenshot 2026-10-18 113918" src="https://github.com/user-attachments/assets/ea6c19f2-9343-4573-84b1-763c834170b6" />
+
+Mesh 2
+<img width="945" height="681" alt="Screenshot 2026-10-18 114141" src="https://github.com/user-attachments/assets/41e60398-3040-4f2f-99ad-117ceec55f65" />
+<img width="870" height="690" alt="Screenshot 2026-10-18 114201" src="https://github.com/user-attachments/assets/7f66d4cb-2e17-483d-b321-1751f549861f" />
+
+Mesh 3
+<img width="950" height="717" alt="Screenshot 2026-10-18 114258" src="https://github.com/user-attachments/assets/088f3384-e055-4f06-8b85-3ed3ff5fedc0" />
+<img width="882" height="717" alt="Screenshot 2026-10-18 114312" src="https://github.com/user-attachments/assets/f53ca854-cb27-46e7-bf5b-1af01557c48d" />
+
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
 | Number of elements | 9337 | 19536 | 35875 |
@@ -48,6 +63,7 @@ Mesh 3
 | Safety Factor | 0.0338 | 0.0297 | 0.0282 |
 
 ## Design 3
+
 
 
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
