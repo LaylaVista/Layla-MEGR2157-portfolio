@@ -12,6 +12,17 @@ For my FEA analysis, I fixed the top part of my bracket since this part will not
 
 For design 1, I kept the original design that I created in A6. My max stress was much higher than the material's yield strength, making my safety factor well below 3. The area on the model under the most stress was the part that connects the rod to the rest of the bracket. The part where the maximum deflection occurred was at the end of the rod. I knew that if I wanted to increase strength and stiffness, then both of these areas would need to be redesigned. I also need to make the rest of the bracket thicker to increase the safety factor.
 
+<img width="1592" height="855" alt="Screenshot 2026-10-18 105934" src="https://github.com/user-attachments/assets/676f6130-f268-4fcd-ba69-057cbcc3640a" />
+<img width="1596" height="807" alt="Screenshot 2026-10-18 105953" src="https://github.com/user-attachments/assets/3a2fc138-2bb6-447b-8df0-8c62a7dc39e6" />
+<img width="1291" height="828" alt="Screenshot 2026-10-18 110108" src="https://github.com/user-attachments/assets/1ffcd566-b066-49bf-bf6d-f7542d92481d" />
+<img width="1210" height="797" alt="Screenshot 2026-10-18 110134" src="https://github.com/user-attachments/assets/cf26efdf-0d51-43f2-883a-8e060528107d" />
+<img width="1147" height="785" alt="Screenshot 2026-10-18 110149" src="https://github.com/user-attachments/assets/ca1cf7d2-a9fd-4e6c-8402-e4de3aad59b7" />
+<img width="1102" height="746" alt="Screenshot 2026-10-18 110254" src="https://github.com/user-attachments/assets/f8fc2d4c-9dab-4c3c-b433-64712fd655aa" />
+<img width="1172" height="748" alt="Screenshot 2026-10-18 110322" src="https://github.com/user-attachments/assets/69edd64e-3e0d-40f5-9712-1699b6d92401" />
+<img width="1008" height="742" alt="Screenshot 2026-10-18 110400" src="https://github.com/user-attachments/assets/89e09783-da48-426d-b227-a6c70ac2adde" />
+<img width="1061" height="742" alt="Screenshot 2026-10-18 110425" src="https://github.com/user-attachments/assets/68a49f66-e268-4a41-a3fe-7049fef7dc0b" />
+
+
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
 | Number of elements | 9337 | 19536 | 35875 |
