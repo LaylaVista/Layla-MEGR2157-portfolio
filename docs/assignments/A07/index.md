@@ -115,3 +115,6 @@ I spent about 5 hours on this assignment
 
 ## SolidWorks Files
 
+<a href="A7.SLDPRT" download>
+    Download SOLIDWORKS Part
+</a>
