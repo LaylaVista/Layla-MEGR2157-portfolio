@@ -33,7 +33,7 @@ Mesh 3
 | Number of elements | 9337 | 19536 | 35875 |
 | Max stress | 1.18*10^6 psi | 1.345*10^6 psi | 1.413*10^6 psi |
 | Max deflection | 52.63 mm | 53.58 mm | 54.01 mm |
-| Mass | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
+| Mass | 0.12 lb | 0.12 lb | 0.12 lb |
 | Safety Factor | 0.0338 | 0.0297 | 0.0282 |
 
 
