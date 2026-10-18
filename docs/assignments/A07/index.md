@@ -64,7 +64,19 @@ Mesh 3
 
 ## Design 3
 
+<img width="751" height="661" alt="Screenshot 2026-10-18 121012" src="https://github.com/user-attachments/assets/81f68b01-5ba8-4258-ab14-4ac3c6b4c02e" />
 
+Mesh 1
+<img width="862" height="638" alt="Screenshot 2026-10-18 121102" src="https://github.com/user-attachments/assets/9853dfb6-90c8-4608-9e14-800d1ccdd38d" />
+<img width="867" height="657" alt="Screenshot 2026-10-18 121135" src="https://github.com/user-attachments/assets/90ed38c2-a597-43c2-9bb3-6a9353acb7dc" />
+
+Mesh 2
+<img width="932" height="657" alt="Screenshot 2026-10-18 121158" src="https://github.com/user-attachments/assets/59b24c7c-02d0-4723-b669-1a20c3f6aec8" />
+<img width="847" height="607" alt="Screenshot 2026-10-18 121230" src="https://github.com/user-attachments/assets/8a5cc7d0-1a03-484e-8090-8b9c36a538d1" />
+
+Mesh 3
+<img width="885" height="622" alt="Screenshot 2026-10-18 121313" src="https://github.com/user-attachments/assets/c6598024-a471-4661-b936-43ede0e44d2e" />
+<img width="833" height="611" alt="Screenshot 2026-10-18 121354" src="https://github.com/user-attachments/assets/7cfb36de-7183-4369-9876-5b8d0b8e79f3" />
 
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
