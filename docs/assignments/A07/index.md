@@ -104,6 +104,25 @@ This piece helped decrease the max stress and deflection. I was able to achieve 
 | Safety Factor | 2.51 | 2.56 | 2.42 |
 
 
+## 2157 Students Only
+
+<img width="1581" height="751" alt="Screenshot 2026-10-21 090450" src="https://github.com/user-attachments/assets/7429994a-6e68-47f1-91fe-86d336160023" />
+
+Mesh 1
+
+<img width="895" height="703" alt="Screenshot 2026-10-21 090041" src="https://github.com/user-attachments/assets/26114fab-bf67-48bc-9cf9-a236265f1ec5" />
+<img width="832" height="675" alt="Screenshot 2026-10-21 090054" src="https://github.com/user-attachments/assets/5573f617-fa16-4bb7-994b-eeeb79d1dfb8" />
+
+Mesh 2
+
+<img width="866" height="692" alt="Screenshot 2026-10-21 090310" src="https://github.com/user-attachments/assets/e4d65ef9-bda8-4281-a623-9954316a82b7" />
+<img width="827" height="646" alt="Screenshot 2026-10-21 090321" src="https://github.com/user-attachments/assets/317acc0b-371d-41be-8c68-a5431c1afd3b" />
+
+Mesh 3
+
+<img width="885" height="681" alt="Screenshot 2026-10-21 090403" src="https://github.com/user-attachments/assets/6590f5f5-c08b-4f39-8339-c42c1b18a4ec" />
+<img width="847" height="651" alt="Screenshot 2026-10-21 090416" src="https://github.com/user-attachments/assets/9a4faf99-5d79-4538-9fb8-4651fe3fa065" />
+
 
 ## Lessons Learned
 
