@@ -126,10 +126,9 @@ Mesh 3
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
 | Number of elements | 9337 | 19536 | 35875 |
-| Max stress | 3.501*10^4 psi | 3.642*10^4 psi | 3.698*10^4 psi |
-| Max deflection | 0.4216 mm | 0.4234 mm | 0.4240 mm |
-| Mass | 0.25 lb | 0.25 lb | 0.25 lb |
-| Safety Factor | 1.139 | 1.095 | 1.079 |
+| Max stress | 3.852*10^4 psi | 4.003*10^4 psi | 4.213*10^4 psi |
+| Max deflection | 0.7053 mm | 0.7094 mm | 0.7115 mm |
+| Safety Factor | 1.036 | 0.996 | 0.947 |
 
 
 
