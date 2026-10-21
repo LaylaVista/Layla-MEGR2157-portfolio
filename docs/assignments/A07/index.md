@@ -106,6 +106,8 @@ This piece helped decrease the max stress and deflection. I was able to achieve 
 
 ## 2157 Students Only
 
+I was tasked with completing the same process with the linkage I made. I created an assembly with the bracket and the linkage, and I added a 1000 lb force at the edges of the linkage connection. I ran the assembly using the same three meshes made previously.
+
 <img width="1581" height="751" alt="Screenshot 2026-10-21 090450" src="https://github.com/user-attachments/assets/7429994a-6e68-47f1-91fe-86d336160023" />
 
 Mesh 1
@@ -123,6 +125,7 @@ Mesh 3
 <img width="885" height="681" alt="Screenshot 2026-10-21 090403" src="https://github.com/user-attachments/assets/6590f5f5-c08b-4f39-8339-c42c1b18a4ec" />
 <img width="847" height="651" alt="Screenshot 2026-10-21 090416" src="https://github.com/user-attachments/assets/9a4faf99-5d79-4538-9fb8-4651fe3fa065" />
 
+
 |   | Mesh 1 | Mesh 2 | Mesh 3 |
 | --- | --- | --- | --- |
 | Number of elements | 9337 | 19536 | 35875 |
@@ -131,6 +134,7 @@ Mesh 3
 | Safety Factor | 1.036 | 0.996 | 0.947 |
 
 
+The maximum stress drastically increased, deflection increased, and the safety factor decreased. I feel that I may have made a mistake with where I added the force. I think if I had added the force at the entire surface area of contact between the linkage and the bracket, then the max stress would not have increased so much; However, I couldn't figure out how to do that in SolidWorks.
 
 ## Lessons Learned
 
