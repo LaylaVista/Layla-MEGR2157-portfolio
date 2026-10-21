@@ -134,6 +134,10 @@ I spent about 5 hours on this assignment
 
 ## SolidWorks Files
 
-<a href="A7.SLDPRT" download>
+<a href="A6.SLDPRT" download>
+    Download SOLIDWORKS Part
+</a>
+
+<a href="A7 Linkage Assembly.SLDASM" download>
     Download SOLIDWORKS Part
 </a>
