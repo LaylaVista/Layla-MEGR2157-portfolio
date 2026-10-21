@@ -151,5 +151,5 @@ I spent about 5 hours on this assignment
 </a>
 
 <a href="A7 Linkage Assembly.SLDASM" download>
-    Download SOLIDWORKS Part
+    Download SOLIDWORKS Assembly
 </a>
