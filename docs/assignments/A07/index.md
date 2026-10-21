@@ -123,6 +123,15 @@ Mesh 3
 <img width="885" height="681" alt="Screenshot 2026-10-21 090403" src="https://github.com/user-attachments/assets/6590f5f5-c08b-4f39-8339-c42c1b18a4ec" />
 <img width="847" height="651" alt="Screenshot 2026-10-21 090416" src="https://github.com/user-attachments/assets/9a4faf99-5d79-4538-9fb8-4651fe3fa065" />
 
+|   | Mesh 1 | Mesh 2 | Mesh 3 |
+| --- | --- | --- | --- |
+| Number of elements | 9337 | 19536 | 35875 |
+| Max stress | 3.501*10^4 psi | 3.642*10^4 psi | 3.698*10^4 psi |
+| Max deflection | 0.4216 mm | 0.4234 mm | 0.4240 mm |
+| Mass | 0.25 lb | 0.25 lb | 0.25 lb |
+| Safety Factor | 1.139 | 1.095 | 1.079 |
+
+
 
 ## Lessons Learned
 
