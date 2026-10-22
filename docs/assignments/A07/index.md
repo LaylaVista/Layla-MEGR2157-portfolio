@@ -139,6 +139,10 @@ Mesh 3
 
 The maximum stress drastically increased, deflection increased, and the safety factor decreased. I feel that I may have made a mistake with where I added the force. I think if I had added the force at the entire surface area of contact between the linkage and the bracket, then the max stress would not have increased so much; However, I couldn't figure out how to do that in SolidWorks.
 
+## Reflections
+
+When I ran my first simulation, my max stress and displacement were way higher than I had anticipated. I must have made a huge error during my calculations. Without the help of FEA simulations, I would not have known how inneffective my initial design was. However, through this assignment I learned how to use FEA to maximize the strength-to-weight and stiffness-to-weight ratio of a design. To make the design stronger and stiffer, I made the walls thicker, added a triangular support, and added fillets to make some areas thicker. To decrease the weight, I removed areas from the places of the bracket that experienced low stress and deflection, for example the sharp edges of the bracket were removed with fillets and the top two cantilever beams had squares cut out of them. In the future, I will definitely use FEA for my personal projects moving forward.
+
 ## Lessons Learned
 
  - I learned how to use finite element analysis (FEA) to optimize a design
