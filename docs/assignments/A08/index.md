@@ -4,12 +4,12 @@
 
 Design a gearbox that can be assembled and disassembled, including an input pinion, output gear, journal bearings, and gearbox. The following information is given:
 
-| Input | Output |
+| Output | Input |
 | -------- | -------- |
 | rpm = 1100 | rpm = unknown |
 | T = 1.25 in*lb | T = unknown |
 | shaft ⌀ = 0.25 in | shaft ⌀ = 0.125 in |
-| shaft l = 1in | shaft l = 1 in |
+| shaft length = 1in | shaft length = 1 in |
 | short shaft | power transmission |
 
 ## Analyze
