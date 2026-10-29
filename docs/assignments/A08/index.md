@@ -78,16 +78,20 @@ Gearbox Assembly
 
 ## CAD File
 
-
+Gearbox Bottom
 <a href="Gear Box Bottom.SLDPRT" download>
     Download SOLIDWORKS Part
 </a>
 
 
+
+Gearbox Top
 <a href="Gear Box Top.SLDPRT" download>
     Download SOLIDWORKS Part
 </a>
 
+
+Gearbox Assembly
 <a href="A8 Assembly.SLDASM" download>
     Download SOLIDWORKS Assembly
 </a>
