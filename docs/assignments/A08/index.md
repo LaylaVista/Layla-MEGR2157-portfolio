@@ -1,4 +1,4 @@
-# A8 – Gear Box Design
+# A8 – Gearbox Design
 
 ## Objective
 
@@ -18,7 +18,7 @@ The first thing I need to do is figure out if the shaft diameters are sufficient
 
 <img width="847" height="660" alt="Screenshot 2026-10-28 092606" src="https://github.com/user-attachments/assets/02edd94d-9c05-42c3-a124-7630967e85cb" />
 
-Since both of my calculated stresses were less than the yield stress, I can verify that the shafts are sufficient.
+Since both calculated stresses were below the yield stress, I can confirm the shafts are sufficient.
 
 ## Design Journal Bearings
 
@@ -44,6 +44,7 @@ Journal Bearing for Output Shaft
 <img width="747" height="518" alt="Screenshot 2026-10-28 124732" src="https://github.com/user-attachments/assets/71c59e25-74ca-4eb3-9c9b-2c0b61d2dde7" />
 <img width="1221" height="743" alt="Screenshot 2026-10-28 124751" src="https://github.com/user-attachments/assets/7cd064b6-c4df-4650-b9c6-98a1cb117d4f" />
 <img width="578" height="490" alt="Screenshot 2026-10-28 124802" src="https://github.com/user-attachments/assets/fc9bac3e-8a1f-48b7-ae61-25865108de04" />
+
 
 
 For my gearbox, I need it to be able to be assembled and disassembled. I achieved this by creating a snap-fit connection between the top and bottom halves of the gearbox. I figured that a snap-fit connection would be the easiest to design because it requires no extra pieces, such as bolts. For the gearbox, I originally designed the shafts separately from the gearbox, but later decided that it would be easier to combine the gearbox halves and the shafts into one part.
@@ -83,7 +84,7 @@ Gearbox Assembly
 
 ## Lessons Learned
 
-
+Overall, I'm really happy with how my final design turned out. The only thing I wish I had spent more time on was creating the drawing for the final assembly; However, I ran out of time before I could finish. Creating the assembly was challenging, but I'm glad I got a refresher on creating complex assemblies. Through this assignment, I learned how to calculate the rpm and torque of an output gear depending on the input rpm, torque, and gear ratio. I also learned how to calculate the pressure and forces that gears experience. Something I was confused about was whether or not I had to pick a material for the box material, as I only picked material for the journal bearings.
 
 ## CAD File
 
