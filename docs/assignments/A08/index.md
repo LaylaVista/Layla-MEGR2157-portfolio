@@ -76,7 +76,14 @@ Gearbox Assembly
 
 ## 2157 Students Only
 
+<img width="992" height="763" alt="Screenshot 2026-10-29 071854" src="https://github.com/user-attachments/assets/655127c4-352d-4f1c-8b4d-c78042565e95" />
+<img width="905" height="696" alt="Screenshot 2026-10-29 071208" src="https://github.com/user-attachments/assets/34bbda57-a837-4225-83b0-5d9efc27a05a" />
+<img width="937" height="726" alt="Screenshot 2026-10-29 072532" src="https://github.com/user-attachments/assets/5ba538a3-243d-42ae-952b-f9133553acb5" />
+<img width="871" height="673" alt="Screenshot 2026-10-29 072853" src="https://github.com/user-attachments/assets/21cc24a0-5d27-4dc3-92a6-377ca78e6ee8" />
+
 ## Lessons Learned
+
+
 
 ## CAD File
 
