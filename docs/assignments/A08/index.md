@@ -29,6 +29,8 @@ For my journal bearings, I decided on a bearing length of 0.25 inches and a pitc
 
 ## Sketch
 
+<img width="847" height="622" alt="Screenshot 2026-10-29 065423" src="https://github.com/user-attachments/assets/1e8294a1-ae04-4a2c-979d-89264b09eebc" />
+
 ## CAD Model
 
 Journal Bearing for Input Shaft
