@@ -83,13 +83,10 @@ Gearbox Bottom
     Download SOLIDWORKS Part
 </a>
 
-
-
 Gearbox Top
 <a href="Gear Box Top.SLDPRT" download>
     Download SOLIDWORKS Part
 </a>
-
 
 Gearbox Assembly
 <a href="A8 Assembly.SLDASM" download>
