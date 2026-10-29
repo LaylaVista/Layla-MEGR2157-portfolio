@@ -22,6 +22,8 @@ Since both of my calculated stresses were less than the yield stress, I can veri
 
 ## Design Journal Bearings
 
+For my journal bearings, I decided on a bearing length of 0.25 inches and a pitch radius of 0.5 in. I then calculated the PV and bearing thickness.
+
 <img width="564" height="663" alt="Screenshot 2026-10-28 092614" src="https://github.com/user-attachments/assets/56f87229-c6d9-4b79-94c3-db5ae1a6ad05" />
 <img width="685" height="663" alt="Screenshot 2026-10-28 092630" src="https://github.com/user-attachments/assets/9ccfe4ff-adf1-4b53-92c4-cfa450b0e1fd" />
 
@@ -42,7 +44,17 @@ Journal Bearing for Output Shaft
 <img width="578" height="490" alt="Screenshot 2026-10-28 124802" src="https://github.com/user-attachments/assets/fc9bac3e-8a1f-48b7-ae61-25865108de04" />
 
 
-For my gearbox, I need it to be able to assemble and disassemble. I achieved this by creating a snap-fit connection between the top and bottom halves of the gearbox. I figured that a snap-fit connection would be the easiest to design because it requires no extra pieces, such as bolts. For the gearbox, I originally designed the shafts separately from the gearbox, but later on decided that it would be easier to combine the gearbox halves and the shafts into one part.
+For my gearbox, I need it to be able to be assembled and disassembled. I achieved this by creating a snap-fit connection between the top and bottom halves of the gearbox. I figured that a snap-fit connection would be the easiest to design because it requires no extra pieces, such as bolts. For the gearbox, I originally designed the shafts separately from the gearbox, but later decided that it would be easier to combine the gearbox halves and the shafts into one part.
+
+The following gears I used for my gearbox:
+
+ - Output: 6832K45_Metal Gear - 20 Degree Pressure Angle
+ - Input: 7880K19_Metal Gear - 20 Degree Pressure Angle
+
+Journal Bearings that suit the application
+
+ - Input: Oil-Embedded 841 Bronze Sleeve Bearing for 1/8" Shaft Diameter and 3/8" Housing ID, 1/4" Long
+ - Output: Oil-Embedded 841 Bronze Sleeve Bearing for 1/4" Shaft Diameter and 3/8" Housing ID, 1/4" Long
 
 Gearbox Top
 
@@ -65,4 +77,5 @@ Gearbox Assembly
 ## Lessons Learned
 
 ## CAD File
+
 
