@@ -10,7 +10,7 @@
 
 ## Shaft Design
 
-<img width="916" height="948" alt="Screenshot 2026-11-05 071444" src="https://github.com/user-attachments/assets/eba42ec3-17dd-49f5-8373-6412c2537354" />
+<img width="600" height="600" alt="Screenshot 2026-11-05 071444" src="https://github.com/user-attachments/assets/eba42ec3-17dd-49f5-8373-6412c2537354" />
 
 
 ## Bearing Design
