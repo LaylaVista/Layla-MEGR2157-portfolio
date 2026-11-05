@@ -15,13 +15,13 @@
 
 ## Bearing Design
 
-<img width="977" height="949" alt="Screenshot 2026-11-05 071455" src="https://github.com/user-attachments/assets/86095d9b-66ae-482d-966b-ec5fee25163c" />
+<img width="500" height="500" alt="Screenshot 2026-11-05 071455" src="https://github.com/user-attachments/assets/86095d9b-66ae-482d-966b-ec5fee25163c" />
 <img width="625" height="380" alt="Screenshot 2026-11-05 060141" src="https://github.com/user-attachments/assets/a3fbd9af-9f5d-4121-9e2f-047cae6c40a6" />
 
 
 ## Sketch
 
-<img width="1135" height="781" alt="Screenshot 2026-11-05 071504" src="https://github.com/user-attachments/assets/d721fc88-08c5-4235-9e69-d3ad64f17082" />
+<img width="800" height="500" alt="Screenshot 2026-11-05 071504" src="https://github.com/user-attachments/assets/d721fc88-08c5-4235-9e69-d3ad64f17082" />
 
 
 ## Conclusion
