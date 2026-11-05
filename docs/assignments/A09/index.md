@@ -36,4 +36,4 @@ My calculated PV was 22064 psi*ft/min, and I chose porous bronze because its PV 
 
 ## Conclusion
 
-This assignment took me around 5 hours to complete. Through this assignment, I learned how to calculate the forces on a pulley using the three pulley equations given during lecture. Pulleys are used in many mechanical systems, so being able to understand them better is critical knowledge as a mechanical engineering student. I chose the material for the journal bearings using a process very similar to the gearbox assignment, so there wasn't much to learn there. 
+This assignment took me around 5 hours to complete. Through this assignment, I learned how to calculate the forces on a pulley using the three pulley equations given during lecture. I also got more insight into how to use torque and stress equations. Pulleys are used in many mechanical systems, so being able to understand them better is critical knowledge as a mechanical engineering student. I chose the material for the journal bearings using a process very similar to the gearbox assignment, so there wasn't much to learn there. 
