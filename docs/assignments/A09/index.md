@@ -28,13 +28,12 @@ Next, I was tasked with designing journal bearings. I chose a diameter and lengt
 <img width="500" height="500" alt="Screenshot 2026-11-05 071455" src="https://github.com/user-attachments/assets/86095d9b-66ae-482d-966b-ec5fee25163c" />
 <img width="625" height="380" alt="Screenshot 2026-11-05 060141" src="https://github.com/user-attachments/assets/a3fbd9af-9f5d-4121-9e2f-047cae6c40a6" />
 
-My calculated PV came out to be 22064 psi*ft/min, and I chose porous bronze as my material selection because the PV limit is greater than my calculated PV.
+My calculated PV was 22064 psi*ft/min, and I chose porous bronze because its PV limit exceeds my calculated PV.
 
 ## Sketch
 
 <img width="800" height="500" alt="Screenshot 2026-11-05 071504" src="https://github.com/user-attachments/assets/d721fc88-08c5-4235-9e69-d3ad64f17082" />
 
-
 ## Conclusion
 
-
+This assignment took me around 5 hours to complete. Through this assignment, I learned how to calculate the forces on a pulley using the three pulley equations given during lecture. Pulleys are used in many mechanical systems, so being able to understand them better is critical knowledge as a mechanical engineering student. I made the journal bearings using a process very similar to the gearbox assignment, so there wasn't much to learn there. 
